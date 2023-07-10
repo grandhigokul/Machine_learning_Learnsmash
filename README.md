@@ -29,3 +29,6 @@ d. Visualize the list of rules
 
 ## Task 5. Classifier Model :
 Use probabilistic approach Naive Bayes Classifier to implement SMS Spam Filtering system.
+
+# Use this link for checking the project completely
+# [Google Colab Code for all these tasks](https://colab.research.google.com/drive/1RyJ32gLSHpWkoCJ7kSCwMBO3SblulQm7?usp=drive_link)
